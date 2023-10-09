@@ -46,34 +46,34 @@
         <span class="side-bar-item-caption">Table</span>
       </router-link>
 
-      <router-link to="/toast" class="side-bar-item">
+      <!-- <router-link to="/toast" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
         <span class="side-bar-item-caption">Toast</span>
-      </router-link>
+      </router-link> -->
 
 
-      <router-link to="/chart" class="side-bar-item">
+      <!-- <router-link to="/chart" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
         <span class="side-bar-item-caption">Chart</span>
-      </router-link>
+      </router-link> -->
 
 
-      <router-link to="/rich-text" class="side-bar-item">
+      <!-- <router-link to="/rich-text" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
         <span class="side-bar-item-caption">Rich Text</span>
-      </router-link>
+      </router-link> -->
 
 
-      <router-link to="/loader" class="side-bar-item">
+      <!-- <router-link to="/loader" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
         <span class="side-bar-item-caption">Loader</span>
-      </router-link>
+      </router-link> -->
 
 
-      <router-link to="/circle-progress" class="side-bar-item">
+      <!-- <router-link to="/circle-progress" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
         <span class="side-bar-item-caption">Circle Progress</span>
-      </router-link>
+      </router-link> -->
 
       <router-link to="/products" class="side-bar-item">
         <span class="side-bar-item-icon"><i class="fa text-green fa-circle-notch"/></span>
