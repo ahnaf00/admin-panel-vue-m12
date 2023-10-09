@@ -43,7 +43,7 @@ onBeforeMount(()=>{
                                     </p>
                                     <h5>{{ product.price }}$</h5>
                                     <router-link :to="{name:'product', params:{id:product.id}}">
-                                        <button type="button" class="btn btn-primary mb-0">View Details</button>
+                                        <button type="button" class="btn bg-gradient-primary btn-sm mt-3">View Details</button>
                                     </router-link>
                                     
                                 </div>

@@ -6,6 +6,8 @@ import RichTextView from "../views/RichTextView.vue";
 import ContentLoaderView from "../views/ContentLoaderView.vue";
 import CircleProgressView from "../views/CircleProgressView.vue";
 import Product from "../components/Products/Product.vue";
+import Shop from "../components/Products/Shop.vue";
+
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -48,7 +50,7 @@ const router = createRouter({
     {
       path:"/products/:id", components:
       {
-          default:Product,
+          default:Shop,
 
       },name: 'product'
   },
